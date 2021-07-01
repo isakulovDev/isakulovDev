@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @isakulovDev
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Akmal(Teroxa)
+- 👀 I’m interested in Back-End
+- 🌱 I’m currently learning Python , I love this Programming Language :)
 
 
 <!---
